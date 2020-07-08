@@ -1,0 +1,4 @@
+node_modules/
+notes/generator-sample/node_modules
+notes/my-module/node_modules
+notes/gulpDemo/node_modules
